@@ -14,6 +14,6 @@ C# , OOP , SQlServer , EF , .Net Core , Asp.Net Mvc,Asp.Net Web API , HTML , CSS
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salma-hussien-2126b9211/)
 
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=salmahussien078@gmail.com)](salmahussien078@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:salmahussien078@gmail.com)](mailto:salmahussien078@gmail.com)
 
 
